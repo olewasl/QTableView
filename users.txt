@@ -1,0 +1,11 @@
+Ivanov Petr Mihaylovich Director 168 100 50 5 0
+Dmitriev Alexey Petrovich ZamDirector 170 80 50 5 0
+Krasnov Evgeniy Alexeevich Engineer 170 70 35 3 0
+Popov Oleg Sergeevich CheefEngineer 170 80 40 4 0
+Kashirov Maxim Vadimovich AHO 170 60 20 7 0
+Varshavsky Semion Karlovich Accounter 168 80 50 3 0
+Shimaev Stepan Viktorovich ChiefManager 168 70 45 7 0
+Sapronova Viktoria Victorovna Operator 168 40 20 2 0
+Serebryakov Pavel Olegovich Driver 168 45 25 1 0
+Solonovich Viktor Petrovich Manager 168 50 30 2 0
+Petrov Alexander Dmitrievich Manager 168 75 35 5 0
